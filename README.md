@@ -1,6 +1,7 @@
 # GenAI Email Writer Chatbot
 
 An AI-powered writing assistant for ESL college students, built with a fine-tuned GPT-4o-mini model and a RAG pipeline using ChromaDB. Helps users write polite, professional academic emails, essays, and personal statements through a Gradio chat interface.
+Note: Built in December 2024 - March 2025. Model versions reflect what was available at the time of development.
 
 ---
 
